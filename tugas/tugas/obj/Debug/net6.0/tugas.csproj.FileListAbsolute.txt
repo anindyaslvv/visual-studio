@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.AssemblyInfo.cs
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tugas\tugas\bin\Debug\net6.0\tugas.exe
+C:\Users\user\source\repos\tugas\tugas\bin\Debug\net6.0\tugas.deps.json
+C:\Users\user\source\repos\tugas\tugas\bin\Debug\net6.0\tugas.runtimeconfig.json
+C:\Users\user\source\repos\tugas\tugas\bin\Debug\net6.0\tugas.dll
+C:\Users\user\source\repos\tugas\tugas\bin\Debug\net6.0\tugas.pdb
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.dll
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\refint\tugas.dll
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.pdb
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\tugas.genruntimeconfig.cache
+C:\Users\user\source\repos\tugas\tugas\obj\Debug\net6.0\ref\tugas.dll
